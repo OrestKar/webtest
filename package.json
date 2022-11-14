@@ -1,0 +1,19 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrestKar/webtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrestKar/webtest/issues"
+  },
+  "homepage": "https://github.com/OrestKar/webtest#readme"
+}
