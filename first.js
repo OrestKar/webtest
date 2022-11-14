@@ -4,4 +4,8 @@ it('fdfsdfdsfs', (function name(params) {
     
 });
 
-if 
+if (a = ) {
+    if ( fmsfsfdsf) {
+        if ( name = )
+    }
+} 
